@@ -1,5 +1,4 @@
-# piscine-js
-Repo for bootcamp JS
+REPO FOR BOOTCAMP - JS
 
 ## Welcome to the JS piscine 👋.
 
